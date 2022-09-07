@@ -1,2 +1,3 @@
 # Magic-docs-translation
-This is the Chinese translation of the magic website
+This is the Chinese translation of the magic website<br>
+This translation is made to help Chinese players play with the Magic spells and wands.
